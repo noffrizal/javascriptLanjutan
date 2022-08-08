@@ -37,7 +37,7 @@ const mahasiswa = function () {
             console.log(`Halo, nama saya ${this.nama}. Saya ${this.umur} Tahun`);
         }
 
-        setInterval(function () {
+        setInterval( () =>  {
             console.log(this.umur++);               
         }, 500);
         // console.log(this);
