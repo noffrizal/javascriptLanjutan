@@ -1,0 +1,21 @@
+    [   {
+         "nama": "Noffrizal",
+         "nim": "TI102154",
+         "email": "noffrizal@gmail.com",
+         "jurusan": "Teknik Informatika",
+         "idDosenWali": 1
+        },
+        {
+            "nama": "Zaim",
+            "nim": "TI101154",
+            "email": "zaim@gmail.com",
+            "jurusan": "Teknik Mesin",
+            "idDosenWali": 2
+        },
+        {
+            "nama": "Junior",
+            "nim": "TI102122",
+            "email": "junior@gmail.com",
+            "jurusan": "Teknik Sipil",
+            "idDosenWali": 3
+        }]
